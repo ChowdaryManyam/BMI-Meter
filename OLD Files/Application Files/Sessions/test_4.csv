@@ -1,0 +1,3 @@
+ChildName, FatherName, MotherName, DateOfBirth, SchoolName, Address1, Address2, Address3, ChildID, Gender, HeightCM, WeightKG, BMI, BMIStatus, TimeStamp
+child4,father4,mother4,2010/09/10,school4,addr14,addr24,addr34,chfamoF20100910,F,0.0,0.0,0.0,n/a, 29-Nov-2022 14:50
+child4,father4,mother4,2010/09/10,school4,addr14,addr24,addr34,chfamoF20100910,F,0.0,0.0,0.0,n/a, 29-Nov-2022 14:53
