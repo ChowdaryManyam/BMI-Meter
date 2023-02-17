@@ -1,0 +1,1 @@
+getReadings: 'Growth_Meter' object has no attribute 'serPort', 07-Nov-2022 13:49

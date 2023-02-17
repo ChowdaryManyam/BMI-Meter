@@ -1,0 +1,1 @@
+getReadings: No device connection., 11-Nov-2022 13:48
